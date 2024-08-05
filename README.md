@@ -1,18 +1,12 @@
-<img align="center" width="100%" src="[https://github.com/imbe4u/imbe4u/blob/main/08e597e1addb5f2aab9ae3ac4820b285.gif](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fn8agw6z2smyb1.gif%3Fwidth%3D1920%26format%3Dmp4%26s%3D014a8734c8d65fe3b5ef04658714bef6fc97778c)">
+<img align="center" width="100%" src="https://private-user-images.githubusercontent.com/74038190/240820725-a754eac4-5a8b-4e8f-922b-aff555400790.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NjIyNzUsIm5iZiI6MTcyMjg2MTk3NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjA3MjUtYTc1NGVhYzQtNWE4Yi00ZThmLTkyMmItYWZmNTU1NDAwNzkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA1VDEyNDYxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1ZDFkOWE5OGU1MDMzYWI4NDFiOGQxYzJmOThlZTJiMGIwMGIwNWNhODdlMTE0YjYzNGJhNzJjODJhY2ZiZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vyYfSn3E9XYQSB2K4OKFoI-2HhGkKLP21E6HQBezRWk">
 <h1 align="center">Hi 👋, I'm Jenin George</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenin07&label=Profile%20views&color=0e75b6&style=flat" alt="jenin07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenin07" alt="jenin07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available in [My Repo]
+- 👨‍💻 All of my projects are available in [My Repo](My Repo)
 
 - 📫 How to reach me **jeningeorge07@gmail.com**
 
