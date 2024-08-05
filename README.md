@@ -1,8 +1,7 @@
-<img align="center" width="100%" src ="https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/?utm_source=share&utm_medium=mweb3x&utm_name=post_embed&utm_term=1&utm_content=1">
+<img align="center" width="100%" src="[https://github.com/imbe4u/imbe4u/blob/main/08e597e1addb5f2aab9ae3ac4820b285.gif](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fn8agw6z2smyb1.gif%3Fwidth%3D1920%26format%3Dmp4%26s%3D014a8734c8d65fe3b5ef04658714bef6fc97778c)">
 <h1 align="center">Hi 👋, I'm Jenin George</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" width="300%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6NTOOn6PSaxNq69x-FXsIL7OooewPxUyyg&s">
-
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenin07&label=Profile%20views&color=0e75b6&style=flat" alt="jenin07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenin07" alt="jenin07" /></a> </p>
