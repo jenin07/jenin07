@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **React**.
   
-- 👨‍💻 All of my projects are available in My Repo.
+- 👨‍💻 All of my projects are available in: <a href="https://github.com/jenin07?tab=repositories">**My Repo**</a>
 
 - 📫 How to reach me: **jeningeorge07@gmail.com**
 
